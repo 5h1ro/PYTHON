@@ -12,6 +12,7 @@ class uts(tk.Frame):
         self.text2()
         self.midA()
         self.midB()
+        # selfa
         self.midC()
         self.footer()
     
